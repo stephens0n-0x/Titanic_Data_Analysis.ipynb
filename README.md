@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook for analyzing the Titanic dataset. T
 ## Contents
 
 - `Titanic_Data_Analysis.ipynb`: Jupyter Notebook with the analysis.
-- `data`: Directory containing the dataset (if applicable).
+- `titanic`: Dataset from Seaborn library.
 
 ## Setup
 
